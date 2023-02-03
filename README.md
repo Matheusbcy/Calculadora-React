@@ -15,4 +15,4 @@ Inicie a aplicação: npm start
 A aplicação estará disponível em http://localhost:3000
 
 ## Contribuições
-Contribuições são sempre bem-vindas! Sinta-se livre para abrir uma issue ou enviar uma pull request.# Calculadora-React
+Contribuições são sempre bem-vindas! Sinta-se livre para abrir uma issue ou enviar uma pull request.
