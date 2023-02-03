@@ -10,8 +10,11 @@ Armazenamento de valores e operações através do estado do componente.
 
 ## Como usar
 Clone este repositório: https://github.com/SEU_USUARIO/SEU_REPO.git.
+
 Instale as dependências: npm install.
+
 Inicie a aplicação: npm start.
+
 A aplicação estará disponível em http://localhost:3000.
 
 ## Contribuições
